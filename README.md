@@ -30,7 +30,7 @@ src/ ├── components/ │   └── Navbar.jsx │   └── ProductCar
 
 1. Clone the repo
 
-git clone https://github.com/your-username/react-cart-app.git
+https://github.com/PRABAL2104/react-cart-app-e-commerce.git
 cd react-cart-app
 
 2. Install dependencies 

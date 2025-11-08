@@ -1,0 +1,13 @@
+a:link {
+  color: #007BFF; /* Unvisited - professional blue */
+}
+
+a:visited {
+  color: #6c757d; /* Visited - muted gray or purple */
+}
+
+a:hover,
+a:focus {
+  color: #0056b3;
+  text-decoration: underline;
+}
